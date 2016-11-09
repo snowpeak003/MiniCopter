@@ -1,0 +1,7 @@
+# MiniCopetr
+自己做的一个小四轴
+只是简单的自稳
+可以使用航模接收机
+目前使用Crazypony的手机app
+通信格式主要MWC的通信格式
+by snowpeak003
